@@ -96,7 +96,7 @@ Ontario-s-Highway-Traffic-Patterns-and-Congestion-Trends/
 │   ├── ontario_highway_traffic_dashboard.pbix
 │   └── README.md
 ├── report/
-│   ├── ontario_highway_traffic_data_visualization_ieee_report.pdf
+│   ├── Data Visualization Project Report.pdf
 │   └── README.md
 └── README.md
 ```
