@@ -1,4 +1,4 @@
-# Power BI Dashboard — Ontario Highway Traffic Patterns & Congestion Trends
+# Power BI Dashboard : Ontario Highway Traffic Patterns & Congestion Trends
 
 ## Overview
 This project showcases an **interactive Power BI dashboard** developed to analyze **Ontario collision and highway traffic patterns**, with a focus on identifying congestion trends, temporal patterns, and contributing factors using public-sector transportation data.
@@ -18,14 +18,8 @@ Key contributions include:
 - Building an interactive dashboard to explore collision risk by region and risk level
 - Applying data visualization best practices to support strategic risk assessment
 
-📊 **Dashboard file:**  
+ **Dashboard file:**  
 `dashboard/ontario_highway_traffic_dashboard.pbix`
-
-
-📊 **Dashboard file:**  
-`dashboard/ontario_highway_traffic_dashboard.pbix`
-
-## Dashboard Preview & Analytical Features
 
 ## Dashboard Preview & Analytical Features
 
@@ -33,8 +27,6 @@ The dashboard transforms raw collision data into actionable risk insights by:
 - Aggregating collision data at the **regional level**
 - Assigning **risk categories** based on derived collision metrics
 - Allowing users to interactively explore high-risk areas for strategic planning
-
-![Ontario Collision Risk Dashboard](visuals/dashboard_overview.png)
 
 ### Sample Screenshots
 ## Dashboard Overview
@@ -44,9 +36,6 @@ The dashboard transforms raw collision data into actionable risk insights by:
 ## Integrated Report
 
 <img width="687" height="869" alt="image" src="https://github.com/user-attachments/assets/abef4ecd-ec36-4def-a268-742f1ea24830" />
-
-![DAX Measures](visuals/dax_measures.png)
-
 
 ---
 
@@ -77,7 +66,12 @@ The report provides:
 📄 **IEEE Report:**  
 `report/ontario_highway_traffic_data_visualization_ieee_report.pdf`
 
-My individual contribution within the group focused on the **design and implementation of the Power BI dashboard** and interpretation of visualization-based insights.
+My individual contribution within the group focused on the **design and implementation of the Power BI dashboard**, including:
+- Developing **custom DAX measures** to model collision risk
+- Creating **regional groupings** from raw geographic data
+- Defining **risk categories (Low / Medium / High)** from collision metrics
+- Translating raw data into an interactive risk-focused dashboard for analysis
+
 
 ---
 
