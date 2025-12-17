@@ -19,6 +19,21 @@ The Power BI dashboard was **individually designed and developed by me** and foc
 📊 **Dashboard file:**  
 `dashboard/ontario_highway_traffic_dashboard.pbix`
 
+## Dashboard Preview & Analytical Features
+
+The dashboard includes analytical features developed beyond raw data visualization:
+
+- Custom **DAX measures** to aggregate collision data by region
+- Derived **risk categories** (Low / Medium / High) created from raw attributes
+- Region-level analysis to highlight high-risk patterns
+- Interactive slicers to explore trends across dimensions
+
+### Sample Screenshots
+![Dashboard Overview](visuals/dashboard_overview.png)
+![Risk Categories](visuals/risk_categories.png)
+![DAX Measures](visuals/dax_measures.png)
+
+
 ---
 
 ## Tools & Technologies
