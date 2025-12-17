@@ -90,15 +90,16 @@ My individual contribution within the group focused on the **design and implemen
 
 ## Repository Structure
 
-
+```
 Ontario-s-Highway-Traffic-Patterns-and-Congestion-Trends/
 ├── dashboard/
-│ ├── ontario_highway_traffic_dashboard.pbix
-│ └── README.md
+│   ├── ontario_highway_traffic_dashboard.pbix
+│   └── README.md
 ├── report/
-│ ├── ontario_highway_traffic_data_visualization_ieee_report.pdf
-│ └── README.md
+│   ├── ontario_highway_traffic_data_visualization_ieee_report.pdf
+│   └── README.md
 └── README.md
+```
 
 
 
