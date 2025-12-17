@@ -37,6 +37,10 @@ The dashboard transforms raw collision data into actionable risk insights by:
 
 <img width="687" height="869" alt="image" src="https://github.com/user-attachments/assets/abef4ecd-ec36-4def-a268-742f1ea24830" />
 
+## DAX measure created for Category
+
+<img width="1384" height="484" alt="image" src="https://github.com/user-attachments/assets/91d45878-35a1-4f64-a291-f122f04254a2" />
+
 ---
 
 ## Tools & Technologies
