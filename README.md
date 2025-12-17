@@ -9,24 +9,32 @@ The dashboard represents my **primary individual contribution**, designed to sup
 
 ## Power BI Dashboard (Primary Contribution)
 
-The Power BI dashboard was **individually designed and developed by me** and focuses on:
+The Power BI dashboard was **individually designed and developed by me** and focuses on analyzing **Ontario collision risk patterns** using derived metrics and categorical analysis.
 
-- Visualizing collision and traffic trends across time
-- Highlighting congestion indicators and seasonal patterns
-- Enabling interactive exploration through filters and slicers
-- Applying data visualization best practices for clarity and insight
+Key contributions include:
+- Designing and implementing **custom DAX measures** to model collision risk
+- Creating **region groupings** from raw geographic data
+- Developing **risk categories (Low / Medium / High)** from unstructured collision attributes
+- Building an interactive dashboard to explore collision risk by region and risk level
+- Applying data visualization best practices to support strategic risk assessment
+
+📊 **Dashboard file:**  
+`dashboard/ontario_highway_traffic_dashboard.pbix`
+
 
 📊 **Dashboard file:**  
 `dashboard/ontario_highway_traffic_dashboard.pbix`
 
 ## Dashboard Preview & Analytical Features
 
-The dashboard includes analytical features developed beyond raw data visualization:
+## Dashboard Preview & Analytical Features
 
-- Custom **DAX measures** to aggregate collision data by region
-- Derived **risk categories** (Low / Medium / High) created from raw attributes
-- Region-level analysis to highlight high-risk patterns
-- Interactive slicers to explore trends across dimensions
+The dashboard transforms raw collision data into actionable risk insights by:
+- Aggregating collision data at the **regional level**
+- Assigning **risk categories** based on derived collision metrics
+- Allowing users to interactively explore high-risk areas for strategic planning
+
+![Ontario Collision Risk Dashboard](visuals/dashboard_overview.png)
 
 ### Sample Screenshots
 ## Dashboard Overview
