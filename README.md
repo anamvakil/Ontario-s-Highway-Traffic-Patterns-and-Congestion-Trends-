@@ -41,6 +41,12 @@ The dashboard transforms raw collision data into actionable risk insights by:
 
 <img width="1384" height="484" alt="image" src="https://github.com/user-attachments/assets/91d45878-35a1-4f64-a291-f122f04254a2" />
 
+<img width="1378" height="240" alt="image" src="https://github.com/user-attachments/assets/d7a82c4c-dfda-46fe-843f-32ec9ee03683" />
+
+<img width="1380" height="150" alt="image" src="https://github.com/user-attachments/assets/a52a3488-e622-40b7-a497-8e4f3ab8e395" />
+
+
+
 ---
 
 ## Tools & Technologies
