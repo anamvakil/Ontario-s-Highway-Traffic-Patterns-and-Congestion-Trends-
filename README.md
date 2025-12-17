@@ -29,10 +29,12 @@ The dashboard includes analytical features developed beyond raw data visualizati
 - Interactive slicers to explore trends across dimensions
 
 ### Sample Screenshots
-![Dashboard Overview]
+[Dashboard Overview]
 <img width="1505" height="845" alt="image" src="https://github.com/user-attachments/assets/d102cd08-2bcf-451a-9f2c-a678038fec4b" />
 
-![Risk Categories](visuals/risk_categories.png)
+[Risk Categories]
+<img width="687" height="869" alt="image" src="https://github.com/user-attachments/assets/abef4ecd-ec36-4def-a268-742f1ea24830" />
+
 ![DAX Measures](visuals/dax_measures.png)
 
 
