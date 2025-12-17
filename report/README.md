@@ -12,7 +12,7 @@ The report documents:
 The report follows **IEEE formatting and reporting standards**, complementing the interactive Power BI dashboard by providing methodological detail and academic context.
 
 ### File Included
-- `ontario_highway_traffic_data_visualization_ieee_report.pdf`
+- `Data Visualization Project Report.pdf`
 
 ### How this fits into the project
 - **Dashboard** → Interactive exploration and insights  
