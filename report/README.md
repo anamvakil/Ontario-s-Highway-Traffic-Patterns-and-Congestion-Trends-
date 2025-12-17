@@ -19,3 +19,15 @@ The report follows **IEEE formatting and reporting standards**, complementing th
 - **Report** → Formal documentation, methodology, and analysis  
 
 Together, they demonstrate both **practical data visualization skills** and **academic rigor**.
+
+### Authorship & Individual Contribution
+
+This IEEE report was completed as part of a **group academic project**.
+
+My individual contribution to the overall project focused on:
+- Designing and developing the **Ontario collision and traffic Power BI dashboard**
+- Creating interactive visuals, filters, and DAX measures
+- Interpreting dashboard insights and trends for analysis
+
+All listed authors contributed to the report and project.
+
