@@ -64,7 +64,7 @@ The report provides:
 - Visualization methodology and shared findings
 
 📄 **IEEE Report:**  
-`report/ontario_highway_traffic_data_visualization_ieee_report.pdf`
+`report/Data Visualization Project Report.pdf`
 
 My individual contribution within the group focused on the **design and implementation of the Power BI dashboard**, including:
 - Developing **custom DAX measures** to model collision risk
